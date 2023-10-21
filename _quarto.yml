@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "English study"
+  site-url: https://nobukuni-hyakutake.github.io/english/
+  description: "A sample blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/Nobukuni-Hyakutake/english
+      - icon: rss
+        href: index.xml
+  page-footer:
+    center: 
+      - text: "© 2023 NO PORTION OF THIS SITE MAY BE USED FOR TRAINING A MACHINELEARNING MODEL (INCLUDING LLMS) WITHOUT THE EXPRESS WRITTEN CONSENT OF THE AUTHOR."
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    toc: true
+    toc-title: Index
+    toc-location: body
+    number-sections: true
+    code-copy: true
+    code-tools: true
+execute:
+  warning: false

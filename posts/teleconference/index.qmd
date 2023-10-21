@@ -1,0 +1,41 @@
+---
+title: "Teleconference"
+author: "Nobukuni Hyakutake"
+date: "2023-10-22"
+date-format: "iso"
+categories: [meeting]
+image: "snail.jpeg"
+---
+
+![](snail.jpeg)
+
+# Preparing a meeting
+
+## Inviting to a meeting
+
+-   Are we going to have a face-to-face or Teams meeting today?
+-   今日の会議は対面とTeamsのどちらでしょうか?
+
+------------------------------------------------------------------------
+
+-   Click the following URL at 7 p.m. on 22nd.
+-   22日の19時に以下のリンクをクリックしてください。
+
+------------------------------------------------------------------------
+
+-   We will use Zoom for the meeting this time.
+-   今日の会議は、Zoomを使います。
+
+## Passcode
+
+-   Send me the passcode to your meeting.
+-   入室のパスコードを送ってください。
+
+------------------------------------------------------------------------
+
+-   I entered the wrong meeting ID.
+-   ミーティングIDを間違えていました。
+
+# References
+
+[ビジネス英語大全](https://bookclub.japantimes.co.jp/book/b570638.html)
