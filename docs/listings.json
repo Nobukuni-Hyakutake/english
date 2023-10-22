@@ -2,7 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/teleconference/index.html"
+      "/posts/teleconference/index.html",
+      "/posts/awesome/index.html"
     ]
   }
 ]

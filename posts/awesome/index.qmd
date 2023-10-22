@@ -1,0 +1,18 @@
+---
+title: "Awesome topics from NATIONAL GEOGRAPHIC KIDS"
+author: "Nobukuni Hyakutake"
+date: "2023-10-22"
+date-format: "iso"
+categories: [NATGEOKIDS]
+image: "aragonite.jpeg"
+---
+
+![](aragonite.jpeg)
+
+# Colorful caves
+
+- What do you get when geothermal hot springs carve a long channel beneath^[真下に] heavy snow compressed into ice? Ice caves! Inside, variations in ice thickness refract^[屈折させる] light differently, revealing a full spectrum of colors (thicker ice appears blue or green). But don't linger^[長居する] too long - ice caves can collapse at any time.
+
+## References
+
+[NATIONAL GEOGRAPHIC KIDS](https://kids.nationalgeographic.com/) - February 2022
