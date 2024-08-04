@@ -6,15 +6,49 @@
       version="2.0">
 <channel>
 <title>English study</title>
-<link>https://nobukuni-hyakutake.github.io/english/index.html</link>
+<link>https://nobukuni-hyakutake.github.io/english/</link>
 <atom:link href="https://nobukuni-hyakutake.github.io/english/index.xml" rel="self" type="application/rss+xml"/>
 <description>A sample blog</description>
-<generator>quarto-1.3.361</generator>
-<lastBuildDate>Sat, 21 Oct 2023 15:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Sat, 03 Aug 2024 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>Business expression</title>
+  <dc:creator>Nobukuni Hyakutake</dc:creator>
+  <link>https://nobukuni-hyakutake.github.io/english/posts/business/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nobukuni-hyakutake.github.io/english/posts/business/asama.jpeg" class="img-fluid"></p>
+<section id="dei" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> DEI</h1>
+<ul>
+<li>“Equity”<sup>1</sup> can often get confused with “equality,”<sup>2</sup> but it’s really not the same. Equity acknowledges that not everyone has the same starting point, and that some people might need additional support to take advantage of opportunities. So companies committed to equity focus on systems and processes that create fairness and recognize those different starting points.</li>
+</ul>
+
+
+<!-- -->
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>公平↩︎</p></li>
+<li id="fn2"><p>平等↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Business</category>
+  <guid>https://nobukuni-hyakutake.github.io/english/posts/business/</guid>
+  <pubDate>Sat, 03 Aug 2024 15:00:00 GMT</pubDate>
+  <media:content url="https://nobukuni-hyakutake.github.io/english/posts/business/asama.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Teleconference</title>
   <dc:creator>Nobukuni Hyakutake</dc:creator>
-  <link>https://nobukuni-hyakutake.github.io/english/posts/teleconference/index.html</link>
+  <link>https://nobukuni-hyakutake.github.io/english/posts/teleconference/</link>
   <description><![CDATA[ 
 
 
@@ -63,14 +97,14 @@
 
  ]]></description>
   <category>meeting</category>
-  <guid>https://nobukuni-hyakutake.github.io/english/posts/teleconference/index.html</guid>
+  <guid>https://nobukuni-hyakutake.github.io/english/posts/teleconference/</guid>
   <pubDate>Sat, 21 Oct 2023 15:00:00 GMT</pubDate>
   <media:content url="https://nobukuni-hyakutake.github.io/english/posts/teleconference/snail.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Awesome topics from NATIONAL GEOGRAPHIC KIDS</title>
   <dc:creator>Nobukuni Hyakutake</dc:creator>
-  <link>https://nobukuni-hyakutake.github.io/english/posts/awesome/index.html</link>
+  <link>https://nobukuni-hyakutake.github.io/english/posts/awesome/</link>
   <description><![CDATA[ 
 
 
@@ -101,7 +135,7 @@
 </ol>
 </section></div> ]]></description>
   <category>NATGEOKIDS</category>
-  <guid>https://nobukuni-hyakutake.github.io/english/posts/awesome/index.html</guid>
+  <guid>https://nobukuni-hyakutake.github.io/english/posts/awesome/</guid>
   <pubDate>Sat, 21 Oct 2023 15:00:00 GMT</pubDate>
   <media:content url="https://nobukuni-hyakutake.github.io/english/posts/awesome/aragonite.jpeg" medium="image" type="image/jpeg"/>
 </item>

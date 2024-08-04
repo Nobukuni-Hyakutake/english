@@ -1,0 +1,14 @@
+---
+title: "Business expression"
+author: "Nobukuni Hyakutake"
+date: "2024-08-04"
+date-format: "iso"
+categories: [Business]
+image: "asama.jpeg"
+---
+
+![](asama.jpeg)
+
+# DEI
+
+- “Equity”^[公平] can often get confused with “equality,”^[平等] but it’s really not the same. Equity acknowledges that not everyone has the same starting point, and that some people might need additional support to take advantage of opportunities. So companies committed to equity focus on systems and processes that create fairness and recognize those different starting points.
